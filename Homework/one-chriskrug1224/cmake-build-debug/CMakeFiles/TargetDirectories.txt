@@ -1,0 +1,6 @@
+C:/Users/maria/Desktop/CPE 553/Homework/one-chriskrug1224/cmake-build-debug/CMakeFiles/main_executable.dir
+C:/Users/maria/Desktop/CPE 553/Homework/one-chriskrug1224/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maria/Desktop/CPE 553/Homework/one-chriskrug1224/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maria/Desktop/CPE 553/Homework/one-chriskrug1224/cmake-build-debug/src/CMakeFiles/f_func.dir
+C:/Users/maria/Desktop/CPE 553/Homework/one-chriskrug1224/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/maria/Desktop/CPE 553/Homework/one-chriskrug1224/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
