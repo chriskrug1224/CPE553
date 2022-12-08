@@ -1,0 +1,5 @@
+﻿  Friend_Class_Func.cpp
+  Person.cpp
+  Generating Code...
+Person.obj : error LNK2005: "void __cdecl print(class Person)" (?print@@YAXVPerson@@@Z) already defined in Friend_Class_Func.obj
+C:\Users\abdeyo2\Documents\Courses\553\Yousef\Lecture 9\lecture_9_student_code\Friend_Class_Func\x64\Debug\Friend_Class_Func.exe : fatal error LNK1169: one or more multiply defined symbols found

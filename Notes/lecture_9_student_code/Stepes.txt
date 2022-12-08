@@ -1,0 +1,8 @@
+0. PPT
+1. Polymorphism (VS)
+2. Abstact class (VS)
+3. Friend class, Friend func (CB)
+4. OOPRevision
+----
+review files for class and pointers
+dynamic memory file bug fix (logical errorrs)

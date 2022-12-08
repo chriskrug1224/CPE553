@@ -1,0 +1,6 @@
+﻿  Abstract_Class2.cpp
+C:\Users\abdeyo2\Documents\Courses\553\Yousef\Lecture 9\lecture_9_student_code\Abstarct_class\Abstract_Class2\Abstract_Class2\Shape.h(59,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Shape.cpp
+C:\Users\abdeyo2\Documents\Courses\553\Yousef\Lecture 9\lecture_9_student_code\Abstarct_class\Abstract_Class2\Abstract_Class2\Shape.h(59,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Abstract_Class2.vcxproj -> C:\Users\abdeyo2\Documents\Courses\553\Yousef\Lecture 9\lecture_9_student_code\Abstarct_class\Abstract_Class2\x64\Debug\Abstract_Class2.exe

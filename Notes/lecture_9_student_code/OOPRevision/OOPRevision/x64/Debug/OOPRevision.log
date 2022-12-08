@@ -1,0 +1,4 @@
+﻿  OOPRevision.cpp
+C:\Users\abdeyo2\Documents\Courses\553\Yousef\Lecture 9\lecture_9_student_code\OOPRevision\OOPRevision\OOPRevision.cpp(52,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\abdeyo2\Documents\Courses\553\Yousef\Lecture 9\lecture_9_student_code\OOPRevision\OOPRevision\OOPRevision.cpp(72,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  OOPRevision.vcxproj -> C:\Users\abdeyo2\Documents\Courses\553\Yousef\Lecture 9\lecture_9_student_code\OOPRevision\x64\Debug\OOPRevision.exe
