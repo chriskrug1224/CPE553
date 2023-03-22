@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Final/EE553-finalProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Final/EE553-finalProjectVS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Homework/eight-chriskrug1224" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Homework/five-chriskrug1224" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Homework/four-chriskrug1224" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Homework/nine-chriskrug1224" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Homework/one-chriskrug1224" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Homework/seven-chriskrug1224" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Homework/six-chriskrug1224" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Homework/ten-chriskrug1224" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Homework/three-chriskrug1224" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Homework/two-chriskrug1224" vcs="Git" />
   </component>
